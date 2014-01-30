@@ -1,5 +1,7 @@
+// radsketch.pde
+
 void setup() {
-  size(200,200);
+  size(250,250);
   background(255);
   smooth();
   noStroke();
